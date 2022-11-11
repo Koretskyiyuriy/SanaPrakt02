@@ -11,4 +11,5 @@
 Репозиторій на:
 -  [x] GitHub
 - [ ] GitLab
-- [ ] BitBucket
+- [ ] BitBucket    
+Виконав Корецький Юрій!
